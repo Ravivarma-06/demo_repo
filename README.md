@@ -1,1 +1,4 @@
-somthing
+something
+hello
+git add 
+
